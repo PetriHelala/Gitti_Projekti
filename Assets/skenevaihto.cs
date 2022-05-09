@@ -9,6 +9,9 @@ public class skenevaihto : MonoBehaviour
     public void LataaSkene2(string sceneName) 
     {
         
+
+        // sceneName vaihto kommentti
+
         SceneManager.LoadScene(sceneName);
 
     }
